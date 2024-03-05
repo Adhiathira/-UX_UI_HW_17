@@ -8,7 +8,7 @@ Optional: Set text color */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20Px;
+    padding: 30Px;
 }
 
 .logo {
@@ -25,7 +25,7 @@ nav li {
 nav a {
     color: white;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 26px;
 
 }
 
@@ -35,20 +35,20 @@ nav a {
 }
 
 .name-title {
-    margin-left: -35%;
+    margin-left: -10%;
     text-align: left;
 }
 
 .name-title h1 {
     margin: 0;
-    font-size: 18px;
+    font-size: 25px;
     color: white;
 
 }
 
 .name-title p {
     margin: 0;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
 }
 
@@ -61,14 +61,11 @@ nav a {
 .heroimg {
     text-align: center;
     padding: 20px;
-
-
-
 }
 
 h1 {
     color: white;
-    padding: 1%;
+    padding: 2%;
 }
 
 /* about me section*/
@@ -99,8 +96,8 @@ h3 {
 .block {
     background-color: white;
     box-sizing: border-box;
-    width: 150px;
-    height: 100px;
+    width: 180px;
+    height: 150px;
     border: 3px solid paleturquoise;
     display: inline-block;
 
