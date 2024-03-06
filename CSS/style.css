@@ -35,7 +35,7 @@ nav a {
 }
 
 .name-title {
-    margin-left: -10%;
+    margin-left: -60%;
     text-align: left;
 }
 
@@ -60,12 +60,14 @@ nav a {
 
 .heroimg {
     text-align: center;
-    padding: 20px;
+    padding: 19px;
 }
 
 h1 {
     color: white;
     padding: 2%;
+    font-size: 60px;
+
 }
 
 /* about me section*/
@@ -74,8 +76,7 @@ h1 {
     margin-left: 30%;
     text-align: center;
     margin-right: 30%;
-
-    font-size: 14px;
+    font-size: 20px;
     color: white;
 }
 
@@ -83,7 +84,8 @@ h1 {
 
 h3 {
     color: white;
-    padding: 1%;
+    padding: 2%;
+    font-size: 24px;
 }
 
 .twoblocks {
@@ -116,28 +118,25 @@ h3 {
 
 footer {
     background-color: rgb(242, 108, 152);
-    height: 150px;
+    height: 200px;
 }
 
 footer ul {
     display: inline-block;
-    margin: -40px;
+    margin: 19px;
 
 }
 
 footer a {
-    padding: 0 15px;
+
     color: white;
-
-
 }
+
 
 li {
     display: inline-block;
+
 }
-
-
-
 
 .keyword {
     color: white;
